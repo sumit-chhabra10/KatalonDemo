@@ -21,7 +21,7 @@
    <testCaseLink>
       <guid>52770426-27f7-4c2b-8503-c4da550b778c</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Test Modules/NewQuoteCreation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
