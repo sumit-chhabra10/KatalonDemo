@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pricing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81c0def4-c20f-4daf-8ad9-fa71f352dc2a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>5c25d047-df0f-4936-83bf-bd7b985019e6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DC_Policy</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>5c25d047-df0f-4936-83bf-bd7b985019e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>CollectionMethod</value>
+      <variableId>1d02baa0-2c1f-4ba0-b7d9-2c8593b04521</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5c25d047-df0f-4936-83bf-bd7b985019e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PaymentPlan</value>
+      <variableId>0e7e1343-f42a-472f-84fc-7cab8c45dba5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>5c25d047-df0f-4936-83bf-bd7b985019e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PolicyNumber</value>
+      <variableId>2c841466-b79c-49c3-b67f-91c809175103</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Paper'</defaultValue>
+      <description></description>
+      <id>1d02baa0-2c1f-4ba0-b7d9-2c8593b04521</id>
+      <masked>false</masked>
+      <name>CollectionMethod</name>
+   </variable>
+   <variable>
+      <defaultValue>'Full Pay (STD)'</defaultValue>
+      <description></description>
+      <id>0e7e1343-f42a-472f-84fc-7cab8c45dba5</id>
+      <masked>false</masked>
+      <name>PaymentPlan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c841466-b79c-49c3-b67f-91c809175103</id>
+      <masked>false</masked>
+      <name>PolicyNumber</name>
+   </variable>
+</TestCaseEntity>

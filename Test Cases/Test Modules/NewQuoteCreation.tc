@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NewQuoteCreation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>625f4385-0e25-4318-aab2-18bff6049a94</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6f738b5f-a746-495b-b79e-5f4246342002</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DC_Policy</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6f738b5f-a746-495b-b79e-5f4246342002</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Product</value>
+      <variableId>c3c88ea9-b758-403d-bc89-38276b986f50</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'AUS Personal Lines Motor (1.0.0.0)'</defaultValue>
+      <description></description>
+      <id>c3c88ea9-b758-403d-bc89-38276b986f50</id>
+      <masked>false</masked>
+      <name>Product</name>
+   </variable>
+</TestCaseEntity>

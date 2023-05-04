@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Driver History</name>
+   <tag></tag>
+   <elementGuidId>c67516b2-35ba-4527-aefc-a8b4a40ebb4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pageTitle' and text()='Driver History']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pageTitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf2216a6-f4e5-434c-941e-575e9d1286d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pageTitle</value>
+      <webElementGuid>777610f5-4e77-4756-8afb-bca91c0ca23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Driver History</value>
+      <webElementGuid>662a2ebe-2e88-4a39-b841-2bc3d1a4c732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pageTitle&quot;)</value>
+      <webElementGuid>edabc1c0-4dbc-4cfc-ae0f-d1a78fa47573</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pageTitle']</value>
+      <webElementGuid>9840f3fe-7710-4e90-bf19-aae21bf21a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pageTop']/div</value>
+      <webElementGuid>9722203e-6edb-4791-a442-784700411ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No active item'])[1]/following::div[3]</value>
+      <webElementGuid>9f0bf768-59b6-4387-8699-343e4a693160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instalment Schedule'])[1]/following::div[4]</value>
+      <webElementGuid>e3b7bd23-5d74-45dc-8111-5f7288fce39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driver:'])[1]/preceding::div[15]</value>
+      <webElementGuid>ccc3ef5f-2b9c-4a33-9ba3-45be2c408605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div</value>
+      <webElementGuid>ad2e9233-3d4b-4bec-b8b0-dfae036b3446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pageTitle' and (text() = 'Driver History' or . = 'Driver History')]</value>
+      <webElementGuid>29031b13-5757-4d46-8c8c-ba89af6d7a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PolicyTerm_Driver</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e2476cd-658a-448a-a9a0-24763f629630</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>13a3cf48-82c9-43f1-8ba6-a6a726072bce</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DC_Policy</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>13a3cf48-82c9-43f1-8ba6-a6a726072bce</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>MaritalStatus</value>
+      <variableId>38f5a286-f90f-40e6-8bef-6f980dee5a6b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Single'</defaultValue>
+      <description></description>
+      <id>38f5a286-f90f-40e6-8bef-6f980dee5a6b</id>
+      <masked>false</masked>
+      <name>MaritalStatus</name>
+   </variable>
+</TestCaseEntity>

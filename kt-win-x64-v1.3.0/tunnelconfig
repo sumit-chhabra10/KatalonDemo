@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = "9f1e0c82-23f9-4864-9eea-02220cce3d23"
+group = "db5410ec-c01d-4aff-9214-e0aeac6f3756"
+inactive_tunnel_timeout = 0
+organization_id = 910759
+private_tunnel = false
+proxy_host = ""
+proxy_password = ""
+proxy_port = ""
+proxy_username = ""
+retry = 3
+server = "https://tunnel-manager.katalon.com"
+team_id = 1110900
+tenant = "TestOps"
+username = "sumit.chhabra@xceedance.com"

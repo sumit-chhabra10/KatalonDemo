@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Start</name>
+   <tag></tag>
+   <elementGuidId>219e2d29-6bd2-4141-9bab-d8d1397bbb1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='g-btn-text' and text()='Start']//parent::a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Start' or . = 'Start')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#r3DD2E6831B214154B14D61FA4853FA0759_1_1_anchorId > span.g-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7956cd2c-8bb2-4f89-8d7c-2c2a1fc81ded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>g-btn-text</value>
+      <webElementGuid>dede77c4-0c90-450d-b174-45495e11005c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start</value>
+      <webElementGuid>7ba0f037-7bbd-4859-bc9b-6c1c9ae6bf31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;r3DD2E6831B214154B14D61FA4853FA0759_1_1_anchorId&quot;)/span[@class=&quot;g-btn-text&quot;]</value>
+      <webElementGuid>42297788-7e70-4f8a-af35-45f6fc9bac05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='r3DD2E6831B214154B14D61FA4853FA0759_1_1_anchorId']/span</value>
+      <webElementGuid>c4638b57-1a28-4178-9212-da6bf45b686d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[5]</value>
+      <webElementGuid>b88cbddf-369d-4f65-b9e0-4b7a2c5ae911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2023 Duck Creek Technologies LLC. All Rights Reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>852af1ce-d0ec-48f4-8a1b-1f5e28467cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expected date format n/j/Y g:i a.'])[1]/preceding::span[20]</value>
+      <webElementGuid>72ee8c23-bf02-4e21-867e-8bedd9cf9be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
+      <webElementGuid>31b97e91-3fdd-4d60-b2e3-2a7d3c37c876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>3d9fdf3d-74ad-4d0c-bd76-9fc46e28eb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start' or . = 'Start')]</value>
+      <webElementGuid>ade41e99-77be-493e-9f7e-ba60a5f83b96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

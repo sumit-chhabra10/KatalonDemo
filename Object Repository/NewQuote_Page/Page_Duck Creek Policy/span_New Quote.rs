@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New Quote</name>
+   <tag></tag>
+   <elementGuidId>d6d592f8-193a-453e-b0be-835f7b327728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.specialActionsCaption</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='id_New']/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c233e979-6083-4c58-bb95-4e52a91adb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>specialActionsCaption</value>
+      <webElementGuid>ba54026a-5f6e-4e4b-8dd9-28a3a03329c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Quote</value>
+      <webElementGuid>8b1449ce-cf56-4866-9d69-4c993d8750fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_New&quot;)/div[@class=&quot;specialActionMiddle&quot;]/span[@class=&quot;specialActionsCaption&quot;]</value>
+      <webElementGuid>e9f05b46-ea53-4211-bc61-997cacd7d42e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='id_New']/div[2]/span</value>
+      <webElementGuid>71db8fc4-cf82-4d5c-8f73-cd6ec550f52a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='is'])[1]/following::span[5]</value>
+      <webElementGuid>048a80f8-2cb6-4887-99f3-87ee61322e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Search'])[1]/following::span[9]</value>
+      <webElementGuid>03eb758d-f8f8-4743-ae7d-c92bd3c761d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[1]</value>
+      <webElementGuid>55268446-40e1-4a5d-9405-4a29aa40ee2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::span[2]</value>
+      <webElementGuid>1b21ea73-8e3d-4e17-bc76-cd210ac0f8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Quote']/parent::*</value>
+      <webElementGuid>ce8f07a9-624c-4928-a264-2045cf1bc20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/span</value>
+      <webElementGuid>a020625b-5378-4a9a-aead-4ef4e62b420c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'New Quote' or . = 'New Quote')]</value>
+      <webElementGuid>e779c065-7731-4fdd-a2cc-fca5adf238b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
